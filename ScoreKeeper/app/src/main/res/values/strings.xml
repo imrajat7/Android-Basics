@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="teamA">Cincinnati Bengals</string>
+    <string name="teamB">Green Bay Packers</string>
+    <string name="cd1">Logo Team A</string>
+    <string name="cd2">Logo Team B</string>
+    <string name="defaultvalue">0</string>
+    <string name="foultext">Fouls</string>
+    <string name="plus6">+6 points</string>
+    <string name="plus3">+3 points</string>
+    <string name="plus2">+2 points</string>
+    <string name="plus1">+1 points</string>
+    <string name="reset">reset</string>
+    <string name="plus1foul">+1 foul</string>
+</resources>

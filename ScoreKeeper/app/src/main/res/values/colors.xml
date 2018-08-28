@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4DD0E1</color>
+    <color name="colorPrimaryDark">#757575</color>
+    <color name="colorAccent">#FF1744</color>>
+    <color name="teamABack">#81C784</color>
+    <color name="teamBBack">#81D4FA</color>
+    <color name="teamAButton">#FFF9C4</color>
+    <color name="teamBButton">#FFCCBC</color>
+    <color name="foulColor">#FF7043</color>
+    <color name="baseColor">#ECEFF1</color>
+</resources>
