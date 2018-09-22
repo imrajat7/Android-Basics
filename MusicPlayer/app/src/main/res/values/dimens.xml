@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_p">16dp</dimen>
+    <dimen name="logo_size">40dp</dimen>
+    <dimen name="song_name">18sp</dimen>
+    <dimen name="song_name_descp">30sp</dimen>
+    <dimen name="artist_name">14sp</dimen>
+    <dimen name="artist_name_descp">24sp</dimen>
+    <dimen name="now_playing">50dp</dimen>
+</resources>

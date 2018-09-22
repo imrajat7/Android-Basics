@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="SongName">
+        <item name="android:textSize">@dimen/song_name</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="SongNameDescp">
+        <item name="android:textSize">@dimen/song_name_descp</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="ArtistName">
+        <item name="android:textSize">@dimen/artist_name</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="ArtistNameDescp">
+        <item name="android:textSize">@dimen/artist_name_descp</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+</resources>
